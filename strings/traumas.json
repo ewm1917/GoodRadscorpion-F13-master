@@ -1,0 +1,189 @@
+{
+    "brain_damage": [
+        "I ... guh ... hnh-",
+        "Wha-",
+        "Whuu-?",
+        "Help-!",
+        "Can you ... please ...",
+        "My head hurts so bad ...",
+        "Where am I?",
+        "Stop it!",
+        "How do I ... walk ...",
+        "STOP IT!",
+        "Get out of my head!",
+        "Fuck!",
+        "Fucking fuck!",
+        "I can't feel my face...",
+        "Waaagh!",
+        "Who ... are you?",
+        "Hahaha-",
+        "Ragh...",
+        "Get the fuck out!",
+        "Get away from me, you fuck!",
+        "Go home!",
+        "Love can bloom...",
+        "You'd call her a tough bitch...",
+        "They're hunting me.",
+        "He's following me!",
+        "Heck!",
+		"I've got ... balls of ... steel!",
+		"PSHOOOM!",
+        "Take it away!",
+        "Don't touch me!",
+        "Motherfucker!",
+        "Shitting... fuck!",
+        "Ghhh-",
+        "What the fuck?!",
+        "Who's there?",
+        "I'm gonna kill you!",
+        "I'll snatch ... every ...",
+        "Piece of shit!",
+		"EN-CEE-ARR NUMBER ONE!",
+		"HAIL KAISAR?",
+		"This place is really complicated and stuff.",
+		"You're smart, can you help me do... stuff?",
+		"I is scientistic.",
+		"Scorpin! Hnghh!",
+		"Big ... iron?",
+		"Handsome ranger...",
+		"NCR just wants to hurt everyone.",
+		"Legion just look weird.",
+		"Can I shoot ya?",
+		"Don't make me shoot you!",
+		"Take me home ... country roads ...",
+		"I think the caesar hurt me...",
+		"No, YOU are.",
+		"You're kinda hot.",
+		"..."
+    ],
+
+    "mutations": [
+        "telikesis",
+        "halk",
+        "eppilapse",
+        "kamelien",
+        "eksrey",
+        "glowey skin",
+        "fungal tb",
+        "stun gloves"
+    ],
+
+    "george": [
+        "joerge",
+        "george",
+        "gorge",
+        "gdoruge"
+    ],
+
+    "mellens": [
+        "mellens",
+        "melons",
+        "mwrlins"
+    ],
+
+    "faggot_traitor": [
+        "",
+        "that faggot traitor"
+    ],
+
+    "random_gibberish": [
+        "g",
+        "squid",
+        "r",
+        "carbon dioxide"
+    ],
+
+    "y_replacements": [
+        "y",
+        "i",
+        "e"
+    ],
+
+    "servers": [
+        "bager",
+        "sybl",
+        "mrs sybil",
+        "mr basil",
+        "mr terry",
+        "berry"
+    ],
+
+    "create_verbs": [
+        "spawn",
+        "MAke me",
+        "creat"
+    ],
+
+    "create_nouns": [
+        "zenomorfs",
+        "ayleins",
+        "treaitors",
+        "sheadow lings",
+        "abdoocters",
+        "revinent"
+    ],
+	
+    "bug": [
+        "",
+        "IS TIS A BUG??",
+        "SI IST A BUGG/",
+        "BUG!!!"
+    ],
+	
+    "semicolon": [
+        "",
+        ";",
+        ".h"
+    ],
+
+    "god_foe": [
+        "MORTALS",
+        "HERETICS",
+        "INSECTS",
+	"UNBELIEVERS",
+	"BLASPHEMERS",
+	"PARASITES",
+	"WEAKLINGS",
+	"PEASANTS"
+    ],
+
+    "god_aggressive": [
+        "BEGONE, @pick(god_foe)!",
+        "DIE, @pick(god_foe)!",
+        "BLEED, @pick(god_foe)!",
+	"BURN, @pick(god_foe)!",
+	"ALL WILL FALL BEFORE ME!",
+	"ENDLESS SUFFERING AWAITS YOU, @pick(god_foe).",
+	"DEATH TO @pick(god_foe)!"
+    ],
+
+    "god_neutral": [
+        "STOP",
+	"HALT.",
+        "BE SILENT.",
+        "QUIET",
+	"SEE THE TRUTH BEFORE YOU, MORTALS.",
+	"MORTALS, SAY YOUR NAME",
+	"BEGONE, MORTALS.",
+	"BE HEALED, MORTALS. I AM FEELING MERCIFUL.",
+	"DANCE FOR ME, LITTLE MORTALS.",
+	"YOU. STOP.",
+	"REST, MORTALS, TOMORROW IS A LONG DAY.",
+	"YOU MORTALS MAKE ME SICK.",
+	"HONK..."
+    ],
+
+    "god_unstun": [
+	"GET UP. I HAVE NO TIME TO LOSE.",
+	"GET UP, PRIEST.",
+	"GET UP."
+    ],
+
+    "god_heal": [
+	"YOU WILL LIVE TO SEE ANOTHER DAY.",
+	"YOU SHALL SURVIVE THIS, MY PRIEST.",
+	"BE HEALED, PRIEST.",
+	"YOUR LIFE IS IMPORTANT. KEEP IT."
+    ]
+
+}
