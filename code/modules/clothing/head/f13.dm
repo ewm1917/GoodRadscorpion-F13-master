@@ -243,6 +243,13 @@
 	flags_inv = HIDEHAIR
 	armor = list(melee = 10, bullet = 10, laser = 5, energy = 5, bomb = 10, bio = 5, rad = 5, fire = 20, acid = 5)
 
+/obj/item/clothing/head/f13/soviet_soldier
+	name = "soviet side cap"
+	desc = "A foldable military cap with straight sides, with insignia of Red Guard, that was supposedly worn by regular troops."
+	icon_state = "chinese_s"
+	item_state = "secsoft"
+	flags_inv = HIDEHAIR
+
 /obj/item/clothing/head/f13/soviet_nco
 	name = "soviet pilotka"
 	desc = "A foldable military cap with straight sides, with insignia of Red Guard, that was supposedly worn by low rank officers."
@@ -252,11 +259,11 @@
 
 /obj/item/clothing/head/f13/soviet_commander
 	name = "soviet peaked cap"
-	desc = "A peaked cap of dark green in color with a red star on the frontside.<br>It obviously belonged to a high rank officer of Red Guard. It seems to have inner layer of kevlar."
+	desc = "A peaked cap of dark green in color with a red star on the frontside.<br>It obviously belonged to a commander of Red Guard. It seems to have inner layer of kevlar."
 	icon_state = "chinese_c"
 	item_state = "fedora"
 	flags_inv = HIDEHAIR
-	armor = list(melee = 40, bullet = 35, laser = 30, energy = 30, bomb = 25, bio = 10, rad = 10, fire = 50, acid = 10)
+	armor = list(melee = 40, bullet = 40, laser = 40, energy = 35, bomb = 25, bio = 25, rad = 25, fire = 60, acid = 25)
 
 /obj/item/clothing/head/f13/chinese_commander
 	name = "chinese peaked cap"
