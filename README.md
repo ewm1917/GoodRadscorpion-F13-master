@@ -1,16 +1,7 @@
 ## GR13 F13, E.Ver.
-Welcome one, welcome all, to GR13/F13. This is our little attempt at bringing back the old /tg/ Fallout 13 style Crashpoint showed us actually works.
+Welcome one, welcome all, to GR13/F13. (name to be changed), updated/changed gr13 f13 code.
 
-HRP, with a dash of MRP goodness to keep shit fun. You'll be able to fight, you'll be able to steal, and if you roleplay it well, and you'll be allowed to do anything excluding anything which would break the rules. An emphasis on a great environment for players and staff alike, objective and fair administration, sensible rules and some leniency to a certain degree. Players will be expected to follow a MRP - HRP standard, with exceptions to be made of course.
-
-We're always looking for suggestions and feedback and always welcoming new staff, experienced or inexperienced. Unofficially Crashpoint 2! Hosted in the US. That's all.
-
-Have fun and don't forget our motto, "We told you we'd do it." 
-Sponsored by Sips Co. Funded by the S Foundation. Manufactured by Swigs Industries 
-*Crashpoint Approved :)
-
-
-## F13 codebase 
+Do whatever you want just dont RDM lol. Probably will be hosted at weekends. Thats all for now.
 
 [![Build Status](https://travis-ci.org/BadDeathclaw/TG-Claw.svg?branch=master)](https://travis-ci.org/BadDeathclaw/TG-Claw) [![Krihelimeter](https://www.krihelinator.xyz/badge/BadDeathclaw/TG-Claw)](http://www.krihelinator.xyz/repositories/BadDeathclaw/TG-Claw) 
 
