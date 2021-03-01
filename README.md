@@ -1,5 +1,5 @@
-## Good Radscorpion 13
-Welcome one, welcome all, to Good Radscorpion 13. This is our little attempt at bringing back the old /tg/ Fallout 13 style Crashpoint showed us actually works.
+## GR13 F13, E.Ver.
+Welcome one, welcome all, to GR13/F13. This is our little attempt at bringing back the old /tg/ Fallout 13 style Crashpoint showed us actually works.
 
 HRP, with a dash of MRP goodness to keep shit fun. You'll be able to fight, you'll be able to steal, and if you roleplay it well, and you'll be allowed to do anything excluding anything which would break the rules. An emphasis on a great environment for players and staff alike, objective and fair administration, sensible rules and some leniency to a certain degree. Players will be expected to follow a MRP - HRP standard, with exceptions to be made of course.
 
