@@ -36,6 +36,27 @@
 	H.add_trait(TRAIT_MEDICALEXPERT, TRAIT_GENERIC)
 
 /*
+Red Guard Stavka
+/obj/item/clothing/suit/security/officer/russian
+/obj/item/clothing/under/rank/security/navyblue/russian
+*/
+
+/*
+Red Guard Komandarm
+/obj/item/clothing/under/soviet
+*/
+
+/*
+Red Guard Political Commissar
+/obj/item/clothing/under/f13/chinese
+*/
+
+/*
+Red Guard OGPU
+/obj/item/melee/classic_baton
+*/
+
+/*
 Kombrig
 */
 
