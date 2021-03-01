@@ -481,7 +481,7 @@
 	grow_chance = 5
 
 /area/f13/redguard
-	name = "Red Guard"
+	name = "Red Guard Outpost"
 	icon_state = "redguard"
 //	ambience_area =  list('sound/f13ambience/warehouse.ogg')
 //	ambientmusic = list('sound/f13music/fo2_vats.ogg','sound/f13music/fo2_outpost.ogg','sound/misc/null.ogg')
