@@ -168,6 +168,7 @@
 	ambientsounds = list('sound/ambience/ambicha1.ogg','sound/ambience/ambicha2.ogg','sound/ambience/ambicha3.ogg','sound/ambience/ambicha4.ogg')
 	environment = 5
 	grow_chance = 5
+	requires_power = FALSE
 
 /area/f13/bar
 	name = "Bar"

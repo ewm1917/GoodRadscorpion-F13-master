@@ -1355,6 +1355,12 @@ NOTE: there are two lists of areas in the end of this file: centcom and station 
 	requires_power = TRUE
 	icon_state = "nuke_storage"
 
+/area/f13/underground/bosbase
+	name = "BoS Base"
+	flags_1 = NONE
+	requires_power = FALSE
+	icon_state = "nuke_storage"
+
 /area/f13/underground/mountain
 	name = "mountain"
 	icon_state = "cave"
