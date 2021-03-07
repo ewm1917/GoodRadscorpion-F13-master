@@ -23,13 +23,13 @@
 	box = null
 	ears = null
 
-/datum/outfit/job/redguard/scientist/post_equip(mob/living/carbon/human/H, visualsOnly = FALSE)
+/datum/outfit/job/redguard/issledovatel/post_equip(mob/living/carbon/human/H, visualsOnly = FALSE)
 	..()
 	if(visualsOnly)
 		return
 	H.add_trait(TRAIT_TECHNOPHREAK, TRAIT_GENERIC)
 
-/datum/outfit/job/redguard/scientist/post_equip(mob/living/carbon/human/H, visualsOnly = FALSE)
+/datum/outfit/job/redguard/issledovatel/post_equip(mob/living/carbon/human/H, visualsOnly = FALSE)
 	..()
 	if(visualsOnly)
 		return
@@ -109,7 +109,7 @@ Polkovnik
 	total_positions = 1
 	spawn_positions = 1
 	supervisors = "Kombrig."
-	description = "Help Kombrig. If there is no Kombrig you are in charge. Slay a deathclaw or local raider idiot and help scientists with field tasks."
+	description = "Help Kombrig. If there is no Kombrig you are in charge. Slay a deathclaw or local raider idiot and help issledovatels with field tasks."
 	selection_color = "#ff1a1a"
 	exp_requirements = 600
 	outfit = /datum/outfit/job/redguard/f13polkovnik
@@ -181,11 +181,11 @@ GRU
 	H.add_quirk("Lifegiver")
 
 /*
-Scientist
+Issledovatel (scientist/researcher)
 */
 
-/datum/job/redguard/f13scientist
-	title = "Red Guard Scientist"
+/datum/job/redguard/f13issledovatel
+	title = "Red Guard Issledovatel"
 	flag = F13SCIENTIST
 	faction = "Red Guard"
 	total_positions = 2
@@ -194,15 +194,15 @@ Scientist
 	description = "Become a red version of Mary Sue. Research, check out that yank tech recovered from ruin, make chemicals, weaponize science and plants."
 	selection_color = "#ff7a5e"
 	exp_requirements = 340
-	outfit = /datum/outfit/job/redguard/f13scientist
+	outfit = /datum/outfit/job/redguard/f13issledovatel
 	exp_type = EXP_TYPE_WASTELAND
 
-/datum/job/redguard/scientist/after_spawn(mob/living/carbon/human/H, mob/M)
+/datum/job/redguard/issledovatel/after_spawn(mob/living/carbon/human/H, mob/M)
 	H.add_quirk("Chem Whiz")
 
-/datum/outfit/job/redguard/f13scientist
-	name = "Scientist"
-	jobtype = /datum/job/redguard/f13scientist
+/datum/outfit/job/redguard/f13issledovatel
+	name = "Issledovatel"
+	jobtype = /datum/job/redguard/f13issledovatel
 	shoes = /obj/item/clothing/shoes/combat
 	gloves = /obj/item/clothing/gloves/color/latex
 	uniform = /obj/item/clothing/under/f13/ps5m
