@@ -1,7 +1,4 @@
 ## GR13 F13, E.Ver.
-Welcome one, welcome all, to GR13/F13. (name to be changed), updated/changed gr13 f13 code.
-
-Do whatever you want just dont RDM lol. Probably will be hosted at weekends. Thats all for now.
 
 [![Build Status](https://travis-ci.org/BadDeathclaw/TG-Claw.svg?branch=master)](https://travis-ci.org/BadDeathclaw/TG-Claw) [![Krihelimeter](https://www.krihelinator.xyz/badge/BadDeathclaw/TG-Claw)](http://www.krihelinator.xyz/repositories/BadDeathclaw/TG-Claw) 
 
